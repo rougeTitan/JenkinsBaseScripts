@@ -56,7 +56,3 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📞 Support
-
-For any issues, please create a GitHub issue or contact me at `your-email@example.com`.
-
