@@ -60,6 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any issues, please create a GitHub issue or contact me at `your-email@example.com`.
 
----
-
-Let me know if you need modifications! 🚀
